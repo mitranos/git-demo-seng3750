@@ -5,7 +5,7 @@ The presentation for this demo can be found at the [following link](https://prez
 
 ## Technologies And Frameworks
 
-The following demo utilezes basic HTML and CSS knowledge, therefore, the student does not encounter high learning curve.
+The following demo utilizes basic HTML and CSS knowledge, so the student does not encounter high learning curve.
 
 ## License
 
